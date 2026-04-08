@@ -1,0 +1,976 @@
+{
+  "name": "Sergio Fuentes Cámara",
+  "img": "static/Sergio_Fuentes_Camara_11Mar2026_Madrid.jpg",
+  "github": "https://github.com/sfuentescamara",
+  "linkedin": "https://linkedin.com/in/sergiofuentescamara",
+  "email": "s.fuentescamara@gmail.com",
+  "phone": "+34 666 113 180",
+  "location": "Madrid, España",
+  "website": "myprofolio-mwfs.onrender.com",
+  "hero_metrics": {
+    "es": [
+        {"value": "+5", "label": "Años Experiencia"},
+        {"value": "+10", "label": "Proyectos"},
+        {"value": "+5", "label": "Proyectos IA"},
+        {"value": "+15K", "label": "Datos Procesados/día"}
+    ],
+    "en": [
+        {"value": "+5", "label": "Years Experience"},
+        {"value": "+10", "label": "Projects"},
+        {"value": "+5", "label": "AI Projects"},
+        {"value": "+15K", "label": "Data Processed/day"}
+    ]
+  },
+  "featured_projects": [
+    "project13",
+    "project12",
+    "project10",
+    "project8",
+    "project1"
+  ],
+  "skills_data": {
+    "es": [
+      {
+        "category": "Computer Vision & IA",
+        "icon": "👁️",
+        "skills": [
+          { "name": "TensorFlow & PyTorch", "level": 85 },
+          { "name": "Detección de objetos & Tracking", "level": 95 },
+          { "name": "OpenCV", "level": 90 },
+          { "name": "OCR", "level": 90 },
+          { "name": "NLP", "level": 85 },
+          { "name": "IA Agentica", "level": 83 }
+        ]
+      },
+      {
+        "category": "Edge Computing & Hardware",
+        "icon": "⚡",
+        "skills": [
+          { "name": "NPU acceleration", "level": 90 },
+          { "name": "Sistemas baja latencia", "level": 95 },
+          { "name": "C/C++ embebido", "level": 85 },
+          { "name": "Microcontroladores & IoT", "level": 85 }
+        ]
+      },
+      {
+        "category": "Backend & APIs",
+        "icon": "🚀",
+        "skills": [
+          { "name": "Python", "level": 95 },
+          { "name": "FastAPI & REST APIs", "level": 90 },
+          { "name": "WebSockets & WebRTC", "level": 85 },
+          { "name": "MongoDB & SQL", "level": 85 },
+          { "name": "Asyncio & multiprocessing", "level": 90 }
+        ]
+      },
+      {
+        "category": "DevOps & Cloud",
+        "icon": "🐳",
+        "skills": [
+          { "name": "Docker", "level": 85 },
+          { "name": "Ansible", "level": 80 },
+          { "name": "CI/CD (Git, Jenkins)", "level": 85 },
+          { "name": "AWS, GCP & Azure", "level": 80 },
+          { "name": "Linux & Bash", "level": 90 }
+        ]
+      },
+      {
+        "category": "Frontend & Diseño",
+        "icon": "💻",
+        "skills": [
+          { "name": "JavaScript & HTML/CSS", "level": 80 },
+          { "name": "React", "level": 78 },
+          { "name": "Flutter", "level": 75 },
+          { "name": "SolidWorks (diseño 3D)", "level": 70 },
+          { "name": "Impresión 3D (FDM/Resina)", "level": 85 }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "category": "Computer Vision & AI",
+        "icon": "👁️",
+        "skills": [
+          { "name": "TensorFlow & PyTorch", "level": 85 },
+          { "name": "Object detection & Tracking", "level": 95 },
+          { "name": "OpenCV", "level": 90 },
+          { "name": "OCR", "level": 90 },
+          { "name": "NLP", "level": 85 },
+          { "name": "Agentic AI", "level": 83 }
+        ]
+      },
+      {
+        "category": "Edge Computing & Hardware",
+        "icon": "⚡",
+        "skills": [
+          { "name": "NPU acceleration", "level": 90 },
+          { "name": "Low-latency systems", "level": 95 },
+          { "name": "Embedded C/C++", "level": 85 },
+          { "name": "Microcontrollers & IoT", "level": 85 }
+        ]
+      },
+      {
+        "category": "Backend & APIs",
+        "icon": "🚀",
+        "skills": [
+          { "name": "Python", "level": 95 },
+          { "name": "FastAPI & REST APIs", "level": 90 },
+          { "name": "WebSockets & WebRTC", "level": 85 },
+          { "name": "MongoDB & SQL", "level": 85 },
+          { "name": "Asyncio & multiprocessing", "level": 90 }
+        ]
+      },
+      {
+        "category": "DevOps & Cloud",
+        "icon": "🐳",
+        "skills": [
+          { "name": "Docker", "level": 85 },
+          { "name": "Ansible", "level": 80 },
+          { "name": "CI/CD (Git, Jenkins)", "level": 85 },
+          { "name": "AWS & GCP", "level": 75 },
+          { "name": "Linux & Bash", "level": 90 }
+        ]
+      },
+      {
+        "category": "Frontend & Design",
+        "icon": "💻",
+        "skills": [
+          { "name": "JavaScript & HTML/CSS", "level": 80 },
+          { "name": "React", "level": 78 },
+          { "name": "Flutter", "level": 75 },
+          { "name": "SolidWorks (3D design)", "level": 70 },
+          { "name": "3D Printing (FDM/Resin)", "level": 85 }
+        ]
+      }
+    ]
+  },
+  "es": {
+    "nav": {
+      "inicio": "inicio",
+      "about": "sobre-mi",
+      "skills": "habilidades",
+      "projects": "proyectos",
+      "experience": "experiencia",
+      "testimonials": "recomendaciones",
+      "certificates": "certificados",
+      "contact": "contacto"
+    },
+    "navLabels": {
+      "inicio": "Inicio",
+      "sobre-mi": "Sobre Mí",
+      "habilidades": "Habilidades",
+      "proyectos": "Proyectos",
+      "experiencia": "Experiencia",
+      "recomendaciones": "Recomendaciones",
+      "certificados": "Certificados",
+      "contacto": "Contacto"
+    },
+    "hero": {
+      "title1": "IA Software Engineer",
+      "title2": "DevOps & Edge Computing Specialist",
+      "cta1": "Ver Proyectos",
+      "cta2": "Contactar"
+    },
+    "about": {
+      "title": "Sobre Mí",
+      "p1": "Soy un ingeniero de software apasionado por la inteligencia artificial y el machine learning, con más de 5 años de experiencia desarrollando soluciones innovadoras en proyectos de computer vision, edge computing y cloud computing.",
+      "p2": "Mi objetivo es la inverstigación y desarrollo de productos innovadores impulsados por inteligencia artificial para optimizar procesos, mejorar la experiencia de usuario y generar impacto positivo en la sociedad.",
+      "p3": "Mi experiencia abarca desde el diseño de arquitecturas hasta la implementación en producción, siempre enfocándome en crear soluciones escalables y eficientes.",
+      "p4": "Mi trayectoria incluye colaboraciones exitosas en el desarrollo de proyectos de IoT y sistemas embebidos, complementación con diseño hardware, mecánico y web en algunos casos, además de integración, optimización y despliegue de modelos de ML.",
+      "p5": "Mi futuro es seguir creciendo en el ámbito de la inteligencia artificial y el aprendizaje automático para aplicar estas tecnologías en soluciones de vanguardia.",
+      "card1": {
+        "title": "Machine Learning",
+        "desc": "Desarrollo de modelos predictivos, detección y clasificación"
+      },
+      "card2": {
+        "title": "DevOps",
+        "desc": "Automatización de despliegues, integración continua y gestión eficiente de infraestructura"
+      },
+      "card3": {
+        "title": "Big Data & Analytics",
+        "desc": "Procesamiento y análisis de grandes volúmenes de datos"
+      },
+      "card4": {
+        "title": "Hardware & IoT",
+        "desc": "Integración de hardware y dispositivos IoT para soluciones inteligentes"
+      }
+    },
+    "objective": {
+      "title": "Perfil Profesional",
+      "desc": "IA Software Engineer con +5 años especializándome en sistemas en tiempo real para dispositivos edge. Experiencia implementando modelos de detección, OCR y tracking en producción procesando +20 FPS en Full HD. Stack: Python, C++, PyTorch, DevOps, Azure."
+    },
+    "education": {
+      "title": "Formación",
+      "university": "UCLM Toledo",
+      "degree": "GRADO EN INGENIERÍA ELECTRÓNICA INDUSTRIAL Y AUTOMÁTICA",
+      "specialization": "Mención en tecnologías electrónicas avanzadas"
+    },
+    "languages": {
+      "title": "Idiomas",
+      "list": [
+        {
+          "name": "Español",
+          "level": "Nativo"
+        },
+        {
+          "name": "Inglés",
+          "level": "Técnico (documentación, papers, código) | Conversacional en desarrollo"
+        }
+      ]
+    },
+    "research_experience": {
+      "title": "Experiencia en Investigación y Desarrollo",
+      "list": {
+        "exp1": {
+          "title": "Investigador y desarrollador",
+          "subtitle": "Formula Student",
+          "company": "UCLM Toledo",
+          "date": "2018 - 2020",
+          "desc": [
+            "Participación en una competición internacional centrada en el diseño y fabricación de un coche eléctrico",
+            "Investigación y análisis del sistema de suspensión del vehículo",
+            "Diseño 3D del sistema de suspensión con CATIA y SolidWorks",
+            "Simulación y validación del sistema de suspensión en MATLAB"
+          ]
+        },
+        "exp2": {
+          "title": "Diseñador y programador",
+          "subtitle": "Prácticas de Robótica industrial",
+          "company": "UCLM Toledo",
+          "date": "Otoño 2019",
+          "desc": [
+            "Diseño de piezas y elementos para la automatización de procesos industriales",
+            "Programación y simulación de robots industriales para optimizar procesos de producción"
+          ]
+        }
+      }
+    },
+    "skills": {
+      "title": "Habilidades Técnicas"
+    },
+    "projects": {
+      "title": "Proyectos Destacados",
+      "list": {
+        "project13": {
+          "title": "Clasificación del estado del semáforos",
+          "date": "Agosto-Septiembre del 2025",
+          "rol": "IA Developer",
+              "tech": ["Python", "YOLOX", "MongoDB", "ffmpeg", "Shared Memory"],
+          "desc": "Módulo de detección del estado de semáforos en tiempo real en NPU edge. Fine-tuning de YOLO11 con dataset custom de +5000 imágenes para condiciones variadas de iluminación",
+          "code": "https://github.com/sfuentescamara/traffic_light",
+          "demo": "",
+          "metrics": {
+            "precisión": "98%",
+            "latencia": "<30ms",
+            "streams": "1080p/30fps",
+            "optimización": "70% menos CPU",
+            "dataset": "+5000 imágenes"
+          },
+          "images": ["https://raw.githubusercontent.com/sfuentescamara/traffic_light/refs/heads/develop/output/test_detection.jpg"]
+        },
+        "project12": {
+          "title": "Conteo de personas",
+          "date": "Julio-Agosto del 2025",
+          "rol": "IA Developer",
+              "tech": ["Python", "YOLOX", "MongoDB", "ffmpeg", "Shared Memory"],
+          "desc": "Sistema de conteo de personas en tiempo real en NPU edge. Arquitectura multi-dispositivo con hasta 4 cámaras simultáneas 1080p/15fps mediante ffmpeg y memoria compartida",
+          "code": "https://github.com/sfuentescamara/people_counting",
+          "demo": "https://www.youtube.com/watch?v=Lr4-H-tuMOQ",
+          "metrics": {
+            "precisión": "+95%",
+            "latencia": "<40ms",
+            "streams": "4 cámaras 1080p"
+          },
+          "images": ["https://raw.githubusercontent.com/sfuentescamara/people_counting/refs/heads/develop/output/single_frame_counter.png"]
+        },
+        "project11": {
+          "title": "Módulo de seguimiento de objetos",
+          "date": "Marzo-Julio del 2025",
+          "rol": "Software developer",
+              "tech": ["C++", "MongoDB", "Filtro Kalman"],
+          "desc": "Desarrollo de un módulo para realizar el traking de diferentes objetos simultáneamente en la imagen a tiempo real",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project10": {
+          "title": "Lector de matrículas",
+          "date": "2024-2025",
+          "rol": "Software developer, IA developer",
+              "tech": ["C++", "Python", "MongoDB", "ffmpeg", "GenICam", "Detector de objetos", "OCR"],
+          "desc": "Sistema ALPR en tiempo real para dispositivos de borde. Pipeline C++ optimizado que integra detector + OCR con una precisión del 97% en condiciones variables (noche, lluvia, ángulos oblicuos). Procesamiento de vídeo 1080p/+20fps con latencia <50ms utilizando GenICam",
+          "code": "https://github.com/sfuentescamara/lpr-demo",
+          "demo": "",
+          "metrics": {
+            "precisión": "97%",
+            "latencia": "<50ms",
+            "rendimiento": "+15K lecturas/día",
+            "resolución": "1080p/+20fps"
+          },
+          "images": []
+        },
+        "project9": {
+          "title": "Fine-Tunning de modelos",
+          "date": "Febrero-Marzo de 2025",
+          "rol": "IA Developer",
+            "tech": ["Python", "Docker"],
+          "desc": "Re-entrenamiento de modelos y fine-tunning en OCR, detección de objetos y compilación en dispositivos edge (NPU)",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project8": {
+          "title": "Servicio web",
+          "date": "2024-2025",
+          "rol": "Software developer",
+            "tech": ["Python", "JavaScript", "FastAPI", "MongoDB", "Asyncio", "WebSocket", "WebRTC"],
+          "desc": "Desarrollo de un servicio web, backend y frontend, para comunicación entre procesos, visualización y gestión de datos de dispositivos edge",
+          "code": "",
+          "demo": "",
+          "metrics": {
+            "streams": "+10 simultáneos",
+            "dispositivos": "+20 monitorizados",
+            "configuración": "5x más rápido"
+          },
+          "images": []
+        },
+        "project7": {
+          "title": "Medición con visión por ordenador",
+          "date": "2022-2023",
+          "rol": "Software developer",
+            "tech": ["Python", "Flask", "PostgreSQL", "Docker"],
+          "desc": "Participación en un proyecto para la obtención de métricas en imágenes para control de calidad de productos en una cadena de producción",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project6": {
+          "title": "Collar GPS",
+          "date": "2021",
+          "rol": "Software developer, firmware developer, hardware",
+            "tech": ["C", "Python", "IoT", "GSM", "Lora", "Sigfox", "uControladores"],
+          "desc": "Participación en un proyecto para la obtención de datos de sensores (GPS, temperatura, acelerómetro) y envío por radio para su gestión",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project5": {
+          "title": "Básculas autopesaje",
+          "date": "2021",
+          "rol": "Software developer, hardware, mySQL",
+            "tech": ["Python", "IoT", "uControladores"],
+          "desc": "Participación en un proyecto para seguir el crecimiento de animales de forma autónoma",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project4": {
+          "title": "I+D en proyectos IoT",
+          "date": "2021",
+          "rol": "Software developer, hardware",
+            "tech": ["C", "Python", "Arduino", "Raspberry", "uControladores", "impresión 3D"],
+          "desc": "Búsqueda y desarrollo de la viabilidad de nuevos proyectos IoT, diseñando, desarrollando y probando el producto",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project3": {
+          "title": "Proyectos de Dómotica",
+          "date": "-",
+          "rol": "Software developer, hardware",
+            "tech": ["Raspberry", "ESP", "IoT"],
+          "desc": "Configuración e instalación de diversos dispositivos domóticos, incluyendo luces, enchufes inteligentes, cámaras de seguridad, videoporteros y controladores de puertas de garaje. Estos proyectos incorporan sistemas de control por voz. Además, desarrollé un asistente personalizado conectado a Telegram, lo que permite gestionar y monitorear los dispositivos de forma remota, incluso sin acceso a la red local o mediante VPN",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project2": {
+          "title": "Control de excedentes de energía solar",
+          "date": "2023",
+          "rol": "Software developer, hardware",
+            "tech": ["Raspberry", "mySQL"],
+          "desc": "Desarrollo y puesta en marcha de un sistema para monitorear la producción y consumo de energía en paneles solares en un hogar, al mismo tiempo que se controlaba el excedente de energía para su uso en la climatización de la vivienda",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project1": {
+          "title": "Control plataforma Raspberry Pi mediante reconocimiento visual",
+          "date": "2020",
+          "rol": "Software developer, IA developer",
+            "tech": ["Python", "pytorch", "tensorflow"],
+          "desc": "Sistema de control mediante gestos con Computer Vision y DL. Red neuronal convolucional entrenada con +8000 imágenes alcanzando 90% de precisión en reconocimiento de los diferentes gestos e implementación en Raspberry Pi 4. TFG calificado con Matrícula de Honor",
+          "code": "https://github.com/sfuentescamara/TFG",
+          "demo": "https://www.youtube.com/watch?v=NW_RYUaRl0w",
+          "metrics": {
+            "precisión": "90%",
+            "fps": "10fps",
+            "calificación": "Matrícula de Honor"
+          },
+          "images": ["/static/projects/tfg.png"]
+        }
+      }
+    },
+    "experience": {
+      "title": "Experiencia Profesional",
+      "list": {
+        "exp4": {
+          "position": "Software Engineer Specialist",
+          "company": "Accenture",
+          "period": "2026 - Presente",
+          "desc": []
+        },
+        "exp3": {
+          "position": "Computer Vision Engineer",
+          "company": "Grupo Etra",
+          "period": "2023 - 2026",
+          "desc": [
+            "Arquitecté e implementé pipeline completo de Computer Vision en C++/Python procesando vídeo Full HD en tiempo real (<50ms latencia) en dispositivos edge NPU, reduciendo costes de hardware en un 70% vs. soluciones GPU",
+            "Diseñé y optimicé modelos custom de detección de objetos y OCR alcanzando 97% de precisión en producción, procesando +15K operaciones/día mediante fine-tuning y transfer learning",
+            "Lideré infraestructura DevOps para +20 dispositivos edge implementando CI/CD con Docker, Ansible y monitorización centralizada, reduciendo tiempo de despliegue",
+            "Desarrollé plataforma web full-stack (FastAPI, WebSocket, WebRTC) gestionando +10 streams simultáneos en tiempo real, reduciendo tiempo de configuración remota en 5x"
+          ]
+        },
+        "exp2": {
+          "position": "Software Engineer",
+          "company": "Capgemini España SL",
+          "period": "2022 - 2023",
+          "desc": [
+            "Desarrollé sistema de Computer Vision para control de calidad industrial automatizando medición de métricas en cadena de producción, mejorando precisión y reduciendo tiempos de inspección",
+            "Implementé pipelines CI/CD con metodología DevOps (Git, Docker, Jenkins) para proyecto aeronáutico, asegurando entregas continuas y reduciendo errores en producción",
+            "Diseñé arquitecturas de software escalables y modulares siguiendo principios SOLID y patrones de diseño, facilitando mantenibilidad y extensibilidad del código base",
+            "Construí pipelines de preprocesamiento de datos con NumPy y Pandas para alimentar modelos ML, optimizando rendimiento y calidad de predicciones"
+          ]
+        },
+        "exp1": {
+          "position": "Electronics Engineer and Firmware Developer",
+          "company": "Digitanimal",
+          "period": "2020 - 2022",
+          "desc": [
+            "Diseñé y programé firmware en C para microcontroladores de bajo consumo en productos IoT agro-ganaderos, optimizando autonomía de baterías y comunicación GSM/LoRa/Sigfox",
+            "Desarrollé algoritmos de procesamiento de sensores (GPS, acelerómetro, temperatura) y transmisión eficiente de datos para monitorización de ganado en tiempo real",
+            "Diseñé circuitos electrónicos completos incluyendo esquemáticos, PCBs y validación de prototipos para collares GPS y básculas de auto-pesaje en entornos industriales duros",
+            "Lideré ciclo completo de prototipado desde diseño mecánico 3D (SolidWorks) hasta fabricación con impresión 3D (FDM/resina), iterando rápidamente hasta producto final",
+            "Contribuí en I+D de nuevos productos IoT evaluando viabilidad técnica, desarrollando POCs y acelerando time-to-market de innovaciones hardware-software"
+          ]
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Recomendaciones",
+      "subtitle": "Lo que dicen quienes han trabajado conmigo",
+      "linkedin_url": "https://linkedin.com/in/sergiofuentescamara/details/recommendations",
+      "list": [
+        {
+          "name": "Francisco Méndez",
+          "position": "IT Chapter Lead ING España & Portugal at Capgemini",
+          "text": "Desde el comienzo de Sergio en el proyecto que estabamos llevando a cabo, su integración en el equipo fue fantástica. De hecho, pronto estuvo aportando ideas y soluciones buscando la mejora continua en todos nuestros procesos. Sergio en un profesional comprometido, que cumple con los plazos de desarrollo y entrega, aportando además innovación sobre los mismos. Además es un excelente team worker, ayudando a sus compañeros en lo necesario, ayudando a mejorar la maquinaria del equipo completo. Cuenta con buenas dotes de comunicación, siendo capaz de explicar y hacerse entender perfectamente.",
+          "linkedin": "https://linkedin.com/in/sergiofuentescamara"
+        },
+        {
+          "name": "Roberto Guzmán Carreras",
+          "position": "Ingeniero de Software en SensoWave",
+          "text": "Durante el tiempo que trabajé con Sergio nuestros productos crecieron enormemente. Encontrar gente como él, altamente cualificada y fantástico a nivel personal no se encuentra cada día. No dudaría volver a trabajar con Sergio, ya fuera como parte de mi equipo o como compañero de otro departamento.",
+          "linkedin": "https://linkedin.com/in/sergiofuentescamara"
+        },
+        {
+          "name": "Ignacio Gómez Maqueda",
+          "position": "Cofounder - Technical Director en Digitanimal",
+          "text": "Fue un verdadero placer tener a Sergio como parte del equipo en Digitanimal, y sentimos su marcha. Sergio demostró ser un profesional excepcional, siempre buscando superarse a sí mismo y adquirir conocimientos en diversos aspectos. Destacaba por su habilidad para trabajar de manera efectiva en equipo y mantener un rendimiento óptimo incluso bajo situaciones de presión. Su contribución fue altamente valorada en nuestro entorno de trabajo.",
+          "linkedin": "https://linkedin.com/in/sergiofuentescamara"
+        }
+      ]
+    },
+    "certificates": {
+      "title": "Certificados y cursos",
+      "list": {
+        "cert9": {
+          "title": "Multi-Agent Systems",
+          "company": "Udacity part of Accenture",
+          "date": "Abril 2026",
+          "url": "https://www.udacity.com/certificate/e/1cf7f858-29b5-11f1-8ea5-4b36a56d3044",
+          "desc": "Creación de equipos coordinados de agentes de IA. Desarrollo de sistemas multiagente, desde el diseño arquitectónico hasta la implementación en Python. Coordinación de flujos de trabajo complejos, gestión del flujo de datos y del estado, y uso de técnicas avanzadas como RAG multiagente"
+        },
+        "cert8": {
+          "title": "Building Agents",
+          "company": "Udacity part of Accenture",
+          "date": "Abril 2026",
+          "url": "https://www.udacity.com/certificate/e/9c091f5a-2456-11f1-8845-a360f7450513",
+          "desc": "Creación de agentes de IA robustos. Integración de herramientas mediante llamadas a funciones, generación de resultados estructurados con Pydantic, gestión del estado del agente y uso de la memoria a corto y largo plazo. Creación de agentes basados en datos que interactúan con API externas, realizan búsquedas en la web, consultan bases de datos SQL y llevan a cabo RAG (Retrieval-Augmented Generation) para la recuperación dinámica de información"
+        },
+        "cert7": {
+          "title": "Agentic AI Fluency",
+          "company": "Udacity part of Accenture",
+          "date": "Abril 2026",
+          "url": "https://www.udacity.com/certificate/e/0b53c6fe-2389-11f1-b6d3-17d02c05c85d",
+          "desc": "Conocimientos para identificar oportunidades de gran valor para los sistemas autónomos en su empresa, evaluar su rendimiento y colaborar de forma eficaz con los equipos técnicos en iniciativas de inteligencia artificial"
+        },
+        "cert6": {
+          "title": "Google Cloud: AI Fundamentals",
+          "company": "Udacity part of Accenture",
+          "date": "Marzo 2026",
+          "url": "https://www.udacity.com/certificate/e/e3797be0-2876-11f1-857f-d78327e45134",
+          "desc": "Desarrollo de competencias en IA aplicables al sector industrial mediante Google Cloud Platform. Conceptos y su aplicación práctica con las herramientas de GCP"
+        },
+        "cert5": {
+          "title": "Desarrollador de TensorFlow",
+          "company": "DeepLearning.AI",
+          "date": "Agosto 2023",
+          "url": "https://coursera.org/share/91c8ac7e282d5da95e8e7dec5380e729",
+          "desc": "Uso del framework TensorFlow para la construcción de modelos de deep learning para entrenar redes neuronales en aplicaciones de visión por computadora, sistemas de procesamiento de lenguaje natural o la implementación de RNNs, GRUs y LSTMs"
+        },
+        "cert4": {
+          "title": "Curso iniciación DevOps",
+          "company": "GitHub/90DaysOfDevOps",
+          "date": "Octubre 2022",
+          "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+          "desc": "Conocimientos, conceptos y herramientas fundamentales de DevOps, incluyendo canalizaciones CI/CD, infraestructura como código, servicios en la nube, contenedorización, supervisión y mejores prácticas de seguridad"
+        },
+        "cert3": {
+          "title": "AWS Computer Vision with GluonCV",
+          "company": "AWS Training and Certification",
+          "date": "Julio 2022",
+          "url": "https://drive.google.com/file/d/1tZ_E_sO1n-Pi9VzA1FJZbX-ktANQeggb/view?usp=sharing",
+          "desc": "Visión artificial (CV) en AWS creación y entrenamiento de modelos de CV con Apache MXNet y GluonCV"
+        },
+        "cert2": {
+          "title": "Image Segmentation with Python and Unsupervised Learning",
+          "company": "Coursera Project Network",
+          "date": "Julio 2022",
+          "url": "https://coursera.org/share/508c202fdb8d817cfeeb455026dc27e3",
+          "desc": "Uso de la técnica K-means y segmentación de imagen en Python"
+        },
+        "cert1": {
+          "title": "Curso de detección de objetos, Visión por computador",
+          "company": "Universidad Autónoma de Barcelona",
+          "date": "Enero 2020",
+          "url": "https://www.coursera.org/account/accomplishments/verify/BWNJFRKDSHQM?utm_campaign=copybutton_certificate&utm_medium=certificate&utm_source=link",
+          "desc": "Sistemas automáticos de detección y reconocimiento de objetos en imágenes"
+        }
+      }
+    },
+    "contact": {
+      "title": "¿Interesado en mi perfil?",
+      "subtitle": "Estoy siempre abierto a nuevos proyectos y oportunidades. ¡Hablemos sobre cómo puedo ayudar a hacer realidad tu próxima idea!",
+      "email": "Enviar Email"
+    }
+  },
+  "en": {
+    "nav": {
+      "inicio": "home",
+      "about": "about",
+      "skills": "skills",
+      "projects": "projects",
+      "experience": "experience",
+      "testimonials": "testimonials",
+      "certificates": "certificates",
+      "contact": "contact"
+    },
+    "navLabels": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "projects": "Projects",
+      "experience": "Experience",
+      "testimonials": "Testimonials",
+      "certificates": "Certificates",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title1": "IA Software Engineer",
+      "title2": "DevOps & Edge Computing Specialist",
+      "cta1": "View Projects",
+      "cta2": "Contact"
+    },
+    "about": {
+      "title": "About Me",
+      "p1": "I am a software engineer passionate about artificial intelligence and machine learning, with over 5 years of experience developing innovative solutions in computer vision, edge computing, and cloud computing projects.",
+      "p2": "My goal is the research and development of innovative products driven by artificial intelligence to optimise processes, improve user experience and generate positive impact on society.",
+      "p3": "My experience ranges from architectural design to production implementation, always focusing on creating scalable and efficient solutions.",
+      "p4": "My career includes successful collaborations in the development of IoT projects and embedded systems, complemented by hardware, mechanical and web design in some cases, as well as the integration, optimisation and deployment of ML models.",
+      "p5": "My future is to continue growing in the field of artificial intelligence and machine learning to apply these technologies in cutting-edge solutions.",
+      "projects": "ML Projects",
+      "years": "Years Experience",
+      "card1": {
+        "title": "Machine Learning",
+        "desc": "Development of predictive models, detection, and classification"
+      },
+      "card2": {
+        "title": "DevOps",
+        "desc": "Automation of deployments, continuous integration, and efficient infrastructure management"
+      },
+      "card3": {
+        "title": "Big Data & Analytics",
+        "desc": "Processing and analysis of large data volumes"
+      },
+      "card4": {
+        "title": "Hardware & IoT",
+        "desc": "Integration of hardware and IoT devices for smart solutions"
+      }
+    },
+    "objective": {
+      "title": "Professional Profile",
+      "desc": "AI Software Engineer with over 5 years' experience specialising in real-time systems for edge devices. Experience implementing detection, OCR and tracking models in production, processing over 20 FPS in Full HD. Stack: Python, C++, PyTorch, DevOps, Azure."
+    },
+    "education": {
+      "title": "Education",
+      "university": "University of Castilla-La Mancha (UCLM), Toledo",
+      "degree": "Bachelor's Degree in Industrial Electronics and Automation Engineering",
+      "specialization": "Specialization in Advanced Electronic Technologies"
+    },
+    "languages": {
+      "title": "Languages",
+      "list": [
+        {
+          "name": "Spanish",
+          "level": "Native"
+        },
+        {
+          "name": "English",
+          "level": "Technical (documentation, papers, code) | Conversational in development"
+        }
+      ]
+    },
+    "research_experience": {
+      "title": "Engineering, Research, and Development Experience",
+      "list": {
+        "exp1": {
+          "title": "Researcher and Developer",
+          "subtitle": "Formula Student Research and Development Team",
+          "company": "UCLM Toledo",
+          "date": "2018 - 2020",
+          "desc": [
+            "Participated in an international competition focused on the design and manufacturing of an electric vehicle",
+            "Conducted research and analysis on the vehicle’s suspension system",
+            "Designed the suspension system in 3D using CATIA and SolidWorks",
+            "Performed simulation and validation of the suspension system in MATLAB"
+          ]
+        },
+        "exp2": {
+          "title": "Designer and programmer",
+          "subtitle": "Industrial Robotics Internship",
+          "company": "UCLM Toledo",
+          "date": "Fall 2019",
+          "desc": [
+            "Designed parts and components for industrial process automation",
+            "Programmed and simulated industrial robots to optimize production processes"
+          ]
+        }
+      }
+    },
+    "skills": {
+      "title": "Technical Skills"
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "list": {
+        "project13": {
+          "title": "Traffic light status classification",
+          "date": "August–September 2025",
+          "rol": "IA Developer",
+              "tech": ["Python", "YOLLO11", "MongoDB", "ffmpeg", "Shared Memory"],
+          "desc": "Real-time traffic light status detection module on NPU edge. Fine-tuning of YOLO11 with custom dataset of +5000 images for various lighting conditions",
+          "code": "https://github.com/sfuentescamara/traffic_light",
+          "demo": "",
+          "metrics": {
+            "accuracy": "98%",
+            "latency": "<30ms",
+            "streams": "1080p/30fps",
+            "optimización": "70% menos CPU",
+            "dataset": "+5000 images"
+          },
+          "images": ["https://raw.githubusercontent.com/sfuentescamara/traffic_light/refs/heads/develop/output/test_detection.jpg"]
+        },
+        "project12": {
+          "title": "People Counting",
+          "date": "July-August 2025",
+          "rol": "AI Developer",
+            "tech": ["Python", "YOLLO11", "MongoDB", "ffmpeg", "Shared Memory"],
+          "desc": "Real-time people counting system on NPU edge. Multi-device architecture with up to 4 simultaneous 1080p/15fps cameras via ffmpeg and shared memory",
+          "code": "https://github.com/sfuentescamara/people_counting",
+          "demo": "https://www.youtube.com/watch?v=Lr4-H-tuMOQ",
+          "metrics": {
+            "accuracy": "+95%",
+            "latency": "<40ms",
+            "streams": "4 cameras 1080p"
+          },
+          "images": ["https://raw.githubusercontent.com/sfuentescamara/people_counting/refs/heads/develop/output/single_frame_counter.png"]
+        },
+        "project11": {
+          "title": "Object Tracking Module",
+          "date": "March-July 2025",
+          "rol": "Software Developer",
+            "tech": ["C++", "MongoDB", "Kalman Filter"],
+          "desc": "Development of a module to perform real-time tracking of multiple objects simultaneously in the image",
+          "code": "",
+          "demo": "",
+          "metrics": {
+            "tracking": "Multi-object",
+            "performance": "Real-time",
+            "algorithm": "Kalman Filter"
+          },
+          "images": []
+        },
+        "project10": {
+          "title": "License Plate Reader",
+          "date": "2024-2025",
+          "rol": "Software Developer, AI Developer",
+            "tech": ["C++", "Python", "MongoDB", "ffmpeg", "GenICam", "Object Detector", "OCR"],
+          "desc": "Real-time ALPR system for edge devices. Optimised C++ pipeline integrating detector + OCR with 97% accuracy in varying conditions (night, rain, oblique angles). 1080p/+20fps video processing with <50ms latency using GenICam",
+          "code": "https://github.com/sfuentescamara/lpr-demo",
+          "demo": "",
+          "metrics": {
+            "accuracy": "97%",
+            "latency": "<50ms",
+            "throughput": "+15K reads/day",
+            "resolution": "1080p/+20fps"
+          },
+          "images": []
+        },
+        "project9": {
+          "title": "Model Fine-Tuning",
+          "date": "February-March 2025",
+          "rol": "AI Developer",
+            "tech": ["Python", "Docker"],
+          "desc": "Retraining and fine-tuning of models for OCR, object detection, and deployment on edge devices (NPU)",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project8": {
+          "title": "Web Service",
+          "date": "2024-2025",
+          "rol": "Software Developer",
+            "tech": ["Python", "JavaScript", "FastAPI", "MongoDB", "Asyncio", "WebSocket", "WebRTC"],
+          "desc": "Development of a web service, backend and frontend, for inter-process communication, data visualization, and management",
+          "code": "",
+          "demo": "",
+          "metrics": {
+            "streams": "+10 simultaneous",
+            "devices": "+20 monitored",
+            "setup": "5x faster"
+          },
+          "images": []
+        },
+        "project7": {
+          "title": "Computer Vision-Based Measurement",
+          "date": "2022-2023",
+          "rol": "Software Developer",
+            "tech": ["Python", "Flask", "PostgreSQL", "Docker"],
+          "desc": "Participation in a project for obtaining image-based metrics for product quality control on a production line",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project6": {
+          "title": "GPS Collar",
+          "date": "2021",
+          "rol": "Software Developer, Firmware Developer, Hardware",
+            "tech": ["C", "Python", "IoT", "GSM", "Lora", "Sigfox", "Microcontrollers"],
+          "desc": "Participation in a project to collect sensor data (GPS, temperature, accelerometer) and transmit it via radio for management",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project5": {
+          "title": "Self-Weighing Scales",
+          "date": "2021",
+          "rol": "Software Developer, Hardware, mySQL",
+            "tech": ["Python", "IoT", "Microcontrollers"],
+          "desc": "Participation in a project to autonomously monitor the growth of animals",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project4": {
+          "title": "R&D in IoT Projects",
+          "date": "2021",
+          "rol": "Software Developer, Hardware",
+            "tech": ["C", "Python", "Arduino", "Raspberry", "Microcontrollers", "3D Printing"],
+          "desc": "Research and development of the feasibility of new IoT projects, designing, developing, and testing the product",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project3": {
+          "title": "Home Automation Projects",
+          "date": "-",
+          "rol": "Software Developer, Hardware",
+            "tech": ["Raspberry", "ESP", "IoT"],
+          "desc": "Installation of multiple home automation devices such as lights, smart plugs, security cameras, video intercoms, and garage door controllers. These projects include the implementation of voice control systems, as well as a small assistant linked to Telegram, allowing communication and device control even when not connected to the local network or VPN",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project2": {
+          "title": "Solar Energy Surplus Control",
+          "date": "2023",
+          "rol": "Software Developer, Hardware",
+            "tech": ["Raspberry", "mySQL"],
+          "desc": "Development and deployment of a system to monitor energy production and consumption in home solar panels, while controlling the energy surplus for use in climate control",
+          "code": "",
+          "demo": "",
+          "images": []
+        },
+        "project1": {
+          "title": "Raspberry Pi Platform Control via Visual Recognition",
+          "date": "2020",
+          "rol": "Software Developer, AI Developer",
+            "tech": ["Python", "pytorch", "tensorflow"],
+          "desc": "Gesture control system with Computer Vision and DL. Convolutional neural network trained with +8000 images reaching 90% accuracy in recognition of different gestures and implementation in Raspberry Pi 4. TFG qualified with Honours",
+          "code": "https://github.com/sfuentescamara/TFG",
+          "demo": "https://www.youtube.com/watch?v=NW_RYUaRl0w",
+          "metrics": {
+            "accuracy": "90%",
+            "fps": "10fps",
+            "grade": "Honors"
+          },
+          "images": ["/static/projects/tfg.png"]
+        }
+      }
+    },
+    "experience": {
+      "title": "Professional Experience",
+      "list": {
+        "exp4": {
+          "position": "Software Engineer Specialist",
+          "company": "Accenture",
+          "period": "2026 - Presente",
+          "desc": []
+        },
+        "exp3": {
+          "position": "Computer Vision Engineer",
+          "company": "Grupo Etra",
+          "period": "2023 - 2025",
+          "desc": [
+            "Architected and implemented end-to-end Computer Vision pipeline in C++/Python processing Full HD video in real-time (<50ms latency) on NPU edge devices, reducing hardware costs by 70% vs. GPU solutions",
+            "Designed and optimised custom object detection and OCR models achieving 97% accuracy in production, processing +15K operations/day through fine-tuning and transfer learning",
+            "Led DevOps infrastructure for fleet of +20 edge devices implementing CI/CD with Docker, Ansible, and centralized monitoring, reducing deployment time",
+            "Developed full-stack web platform (FastAPI, WebSocket, WebRTC) managing +10 simultaneous streams in real time, reducing remote configuration time by 5x"
+          ]
+        },
+        "exp2": {
+          "position": "Software Engineer",
+          "company": "Capgemini España SL",
+          "period": "2022 - 2023",
+          "desc": [
+            "Developed Computer Vision system for industrial quality control automating metric measurement in production line, improving precision and reducing inspection times",
+            "Implemented CI/CD pipelines with DevOps methodology (Git, Docker, Jenkins) for aeronautical project, ensuring continuous delivery and reducing production errors",
+            "Designed scalable and modular software architectures following SOLID principles and design patterns, facilitating code maintainability and extensibility",
+            "Built data preprocessing pipelines with NumPy and Pandas to feed ML models, optimizing performance and prediction quality"
+          ]
+        },
+        "exp1": {
+          "position": "Electronics Engineer and Firmware Developer",
+          "company": "Digitanimal",
+          "period": "2020 - 2022",
+          "desc": [
+            "Designed and programmed low-power microcontroller firmware in C for agricultural IoT products, optimizing battery autonomy and GSM/LoRa/Sigfox communication protocols",
+            "Developed sensor processing algorithms (GPS, accelerometer, temperature) and efficient data transmission for real-time livestock monitoring systems",
+            "Designed complete electronic circuits including schematics, PCBs, and prototype validation for GPS collars and self-weighing scales in harsh industrial environments",
+            "Led full prototyping cycle from mechanical 3D design (SolidWorks) to manufacturing with 3D printing (FDM/resin), rapidly iterating to final product",
+            "Contributed to R&D of new IoT products evaluating technical feasibility, developing POCs, and accelerating time-to-market for hardware-software innovations"
+          ]
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Recommendations",
+      "subtitle": "What people I've worked with say",
+      "linkedin_url": "https://linkedin.com/in/sergiofuentescamara/details/recommendations",
+      "list": [
+        {
+          "name": "Francisco Méndez",
+          "position": "IT Chapter Lead ING España & Portugal at Capgemini",
+          "text": "From the very beginning of Sergio's involvement in the project we were carrying out, his integration into the team was fantastic. In fact, he was soon contributing ideas and solutions looking for continuous improvement in all our processes. Sergio is a committed professional, who meets the development and delivery deadlines, also bringing innovation to them. He is also an excellent team worker, helping his colleagues where necessary, helping to improve the whole team's machinery. He has good communication skills, being able to explain and make himself perfectly understood.",
+          "linkedin": "https://linkedin.com/in/sergiofuentescamara"
+        },
+        {
+          "name": "Roberto Guzmán Carreras",
+          "position": "Ingeniero de Software en SensoWave",
+          "text": "During the time I worked with Sergio our products grew enormously. You don't find people like him, highly qualified and fantastic on a personal level every day. I would not hesitate to work with Sergio again, either as part of my team or as a colleague in another department.",
+          "linkedin": "https://linkedin.com/in/sergiofuentescamara"
+        },
+        {
+          "name": "Ignacio Gómez Maqueda",
+          "position": "Cofounder - Technical Director en Digitanimal",
+          "text": "It was a real pleasure to have Sergio as part of the team at Digitanimal, and we are sorry to see him go. Sergio proved to be an exceptional professional, always looking to improve himself and acquire knowledge in various aspects. He stood out for his ability to work effectively in a team and to maintain optimum performance even under pressure. His contribution was highly valued in our work environment.",
+          "linkedin": "https://linkedin.com/in/sergiofuentescamara"
+        }
+      ]
+    },
+    "certificates": {
+      "title": "Certificates and Courses",
+      "list": {
+        "cert9": {
+          "title": "Multi-Agent Systems",
+          "company": "Udacity part of Accenture",
+          "date": "April 2026",
+          "url": "https://www.udacity.com/certificate/e/1cf7f858-29b5-11f1-8ea5-4b36a56d3044",
+          "desc": "Building coordinated teams of AI agents. Creation of multi-agent systems, from architectural design to implementation in Python. Orchestration of complex workflows, data flow and state management, and use advanced techniques like multi-agent RAG"
+        },
+        "cert8": {
+          "title": "Building Agents",
+          "company": "Udacity part of Accenture",
+          "date": "April 2026",
+          "url": "https://www.udacity.com/certificate/e/9c091f5a-2456-11f1-8845-a360f7450513",
+          "desc": "Building robust AI agents. Integration of tools via function calling, generation of structured outputs with Pydantic, management of agent state, and utilization of short-term and long-term memory. Creation of data-driven agents that interact with external APIs, search the web, query SQL databases, and perform agentic RAG for dynamic retrieval"
+        },
+        "cert7": {
+          "title": "Agentic AI Fluency",
+          "company": "Udacity part of Accenture",
+          "date": "April 2026",
+          "url": "https://www.udacity.com/certificate/e/0b53c6fe-2389-11f1-b6d3-17d02c05c85d",
+          "desc": "Knowledge to identify high-value opportunities for agentic systems in your business, evaluate their performance, and collaborate effectively with technical teams on AI initiatives"
+        },
+        "cert6": {
+          "title": "Google Cloud: AI Fundamentals",
+          "company": "Udacity part of Accenture",
+          "date": "March 2026",
+          "url": "https://www.udacity.com/certificate/e/e3797be0-2876-11f1-857f-d78327e45134",
+          "desc": "Building industry-ready AI skills using Google Cloud Platform. Concepts and progresses into practical applications with GCP tools"
+        },
+        "cert5": {
+          "title": "TensorFlow Developer",
+          "company": "DeepLearning.AI",
+          "date": "August 2023",
+          "url": "https://coursera.org/share/91c8ac7e282d5da95e8e7dec5380e729",
+          "desc": "Use of the TensorFlow framework to build deep learning models for training neural networks in computer vision applications, natural language processing systems, and the implementation of RNNs, GRUs, and LSTMs"
+        },
+        "cert4": {
+          "title": "DevOps Fundamentals Course",
+          "company": "GitHub/90DaysOfDevOps",
+          "date": "October 2022",
+          "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+          "desc": "Fundamental knowledge, concepts, and tools of DevOps, including CI/CD pipelines, infrastructure as code, cloud services, containerization, monitoring, and security best practices. Based on the 90DaysOfDevOps program, which provides a structured roadmap to acquire practical DevOps skills"
+        },
+        "cert3": {
+          "title": "AWS Computer Vision with GluonCV",
+          "company": "AWS Training and Certification",
+          "date": "July 2022",
+          "url": "https://drive.google.com/file/d/1tZ_E_sO1n-Pi9VzA1FJZbX-ktANQeggb/view?usp=sharing",
+          "desc": "Computer Vision (CV) in AWS: creation and training of CV models using Apache MXNet and GluonCV"
+        },
+        "cert2": {
+          "title": "Image Segmentation with Python and Unsupervised Learning",
+          "company": "Coursera Project Network",
+          "date": "July 2022",
+          "url": "https://coursera.org/share/508c202fdb8d817cfeeb455026dc27e3",
+          "desc": "Use of the K-means technique for image segmentation in Python"
+        },
+        "cert1": {
+          "title": "Object Detection in Computer Vision",
+          "company": "Autonomous University of Barcelona",
+          "date": "January 2020",
+          "url": "https://www.coursera.org/account/accomplishments/verify/BWNJFRKDSHQM?utm_campaign=copybutton_certificate&utm_medium=certificate&utm_source=link",
+          "desc": "Automated systems for object detection and recognition in images"
+        }
+      }
+    },
+    "contact": {
+      "title": "Interested in my profile?",
+      "subtitle": "I am always open to new projects and exciting opportunities. Let\"s talk about how I can help bring your next idea to life!",
+      "email": "Send Email"
+    }
+  }
+}
