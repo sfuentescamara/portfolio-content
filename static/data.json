@@ -1,6 +1,6 @@
 {
   "name": "Sergio Fuentes Cámara",
-  "img": "https://sfuentescamara.github.io/portfolio-content/foto_CV_actual.jpg",
+  "img": "https://sfuentescamara.github.io/portfolio-content/static/Sergio_Fuentes_Camara_11Mar2026_Madrid.jpg",
   "github": "https://github.com/sfuentescamara",
   "linkedin": "https://linkedin.com/in/sergiofuentescamara",
   "email": "s.fuentescamara@gmail.com",
@@ -407,7 +407,7 @@
             "fps": "10fps",
             "calificación": "Matrícula de Honor"
           },
-          "images": ["https://sfuentescamara.github.io/portfolio-content/projects/tfg.png"]
+          "images": ["https://sfuentescamara.github.io/portfolio-content/static/projects/tfg.png"]
         }
       }
     },
@@ -825,7 +825,7 @@
             "fps": "10fps",
             "grade": "Honors"
           },
-          "images": ["https://sfuentescamara.github.io/portfolio-content/projects/tfg.png"]
+          "images": ["https://sfuentescamara.github.io/portfolio-content/static/projects/tfg.png"]
         }
       }
     },
